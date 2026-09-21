@@ -52,11 +52,11 @@ El período analizado corresponde al año **2025**, con pedidos desde el **4 de 
 
 ## Diagrama entidad-relación
 
-![Diagrama entidad-relación](images/diagrama_erd.png)
+![Diagrama entidad-relación](images/Gemini_Generated_Image_4du8s44du8s44du8.jpg)
 
 ## Documentación del proyecto
 
-![Documentación del proyecto](images/segunda_imagen.png)
+![Documentación del proyecto](images/Screenshot 2026-09-21 131819.png)
 
 
 La estructura utiliza `PRIMARY KEY` para identificar registros y `FOREIGN KEY` para garantizar la integridad de las relaciones.
