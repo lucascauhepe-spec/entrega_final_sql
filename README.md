@@ -56,7 +56,7 @@ El período analizado corresponde al año **2025**, con pedidos desde el **4 de 
 
 ## Documentación del proyecto
 
-![Documentación del proyecto](images/Screenshot.png)
+![Documentación del proyecto](images/screenshot.jpg)
 
 
 La estructura utiliza `PRIMARY KEY` para identificar registros y `FOREIGN KEY` para garantizar la integridad de las relaciones.
