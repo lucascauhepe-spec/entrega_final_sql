@@ -50,22 +50,13 @@ El período analizado corresponde al año **2025**, con pedidos desde el **4 de 
 
 ### Relación entre las tablas
 
-La tabla `pedidos` funciona como tabla de hechos y se relaciona con:
+## Diagrama entidad-relación
 
-* `clientes` mediante `cliente_id`.
-* `productos` mediante `producto_id`.
+![Diagrama entidad-relación](images/diagrama_erd.png)
 
-```text
-clientes
-   │
-   │ cliente_id
-   ▼
-pedidos
-   ▲
-   │ producto_id
-   │
-productos
-```
+## Documentación del proyecto
+
+![Documentación del proyecto](images/segunda_imagen.png)
 
 
 La estructura utiliza `PRIMARY KEY` para identificar registros y `FOREIGN KEY` para garantizar la integridad de las relaciones.
