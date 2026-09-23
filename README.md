@@ -1,4 +1,4 @@
-# entrega_final_sql
+# Entrega_final_sql
 # Proyecto Capstone: EDA de un e-commerce con PostgreSQL
 
 Este proyecto simula el trabajo de un analista de datos sobre una tienda de comercio electrónico. Se construyó una base de datos relacional en PostgreSQL, se cargaron datos de clientes, productos y pedidos, se realizó un proceso de validación y limpieza, y finalmente se desarrollaron consultas SQL para responder preguntas de negocio.
